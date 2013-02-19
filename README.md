@@ -16,10 +16,10 @@ VideoCapture
 ----------
 
 1. **OpenCV**, собраная с поддержкой **Qt** ([скачать](http://goo.gl/YCrjL))
-
-2. **Qt** ([скачать](http://releases.qt-project.org/qt4/source/qt-win-opensource-4.8.4-vs2010.exe))
+  1. [**Qt**](http://qt-project.org/) ([скачать](http://releases.qt-project.org/qt4/source/qt-win-opensource-4.8.4-vs2010.exe))
+  2. *[Intel® TBB](http://threadingbuildingblocks.org/) (Необязательно, если OpenCV собрано без TBB, [скачать](http://threadingbuildingblocks.org/sites/default/files/software_releases/windows/tbb40_20120613oss_win.zip))*
 
 Скачать
 -------
 
-[Скачать программу](http://goo.gl/G2wYX)
+[Скачать программу со всеми библиотеками](http://goo.gl/Uie0l)
